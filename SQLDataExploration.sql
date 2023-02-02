@@ -1,3 +1,6 @@
+-- COVID 19 Data Exploration with SQL
+-- Dataset Source: https://ourworldindata.org/covid-deaths
+
 select *
 from dbo.CovidDeaths
 order by 3,4
