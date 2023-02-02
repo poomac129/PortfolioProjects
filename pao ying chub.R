@@ -1,15 +1,5 @@
-pao_ying_chub <- function() {
-  #print game rules
-    hands <- c("rock","paper","scissors","to end the game")
-    user_hand <- as.numeric(readline("Please select hand [1:rock, 2:paper, 3:scissors, 4: end the game]: "))
-    verify = is.na(user_hand)
-    if(verify==TRUE){print("KUY")
-    }else{print("NAHEE")
-      #paste your thing here!
-    }
-}
+#Rock Paper Scissors (Pao Ying Chub in Thai) with R
 
-#HOMEWORK
 pao_ying_chub <- function() {
   #print game rules
   cat("Game Starts!")
