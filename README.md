@@ -8,3 +8,5 @@ You can play Rock Paper Scissors against your computer simply with just number i
 - 4 is for ending the game
 
 Note: Your opponent will always play a random sign. You will only get a point when you win.
+
+FYI The name "Pao Ying Chub" basically means "Rock Paper Scissors" in Thai.
